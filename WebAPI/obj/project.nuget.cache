@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1w+GZIuzpSN+yMOdXzOIZeq76KYXnTOrdwlshIhlBylIWLU4FtURYpURzV5wEi7GivHKZmPAp9A0kYKjgdRS6g==",
+  "dgSpecHash": "FpkPTaxYQyYqyviY/tGSce9CSsJTAh2/ySouBb5JV1mAMpWrW/b0v2bArXlGGBgrdTJbPwN+Ty6dbR5l3Da0BQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\gloria.ademi.GOV\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\gloria.ademi.GOV\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
     "C:\\Users\\gloria.ademi.GOV\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\gloria.ademi.GOV\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\gloria.ademi.GOV\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
     "C:\\Users\\gloria.ademi.GOV\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\gloria.ademi.GOV\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\gloria.ademi.GOV\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
